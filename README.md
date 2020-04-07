@@ -15,8 +15,9 @@
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
 
 ### EMG signals
-* test
-
+* An _OpenBCI_ was used to recorded EMG signals.
+* The sampling rate was set at 250 Hz.
+* 6 electrodes were placed on rectus femoris (*RF*), tibialis anticus (*TA*), and  gastrocnemius lateralis (*GL*) of two lower limbs
 
 ![protocol](fig/timeline.png)
 ## Experimental protocol
