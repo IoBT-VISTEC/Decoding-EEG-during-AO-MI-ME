@@ -41,6 +41,6 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * The raw EMG of each sit-to-stand/stand-to-sit transition was formed in a dimension of participants￼×runs×￼trials×￼channels×￼time points (8￼×3×￼5×￼6×￼3500).
 
 ### Dataset
-```
+
 Raw dataset is available on [GitHub Pages](https://pages.github.com/)
-```
+
