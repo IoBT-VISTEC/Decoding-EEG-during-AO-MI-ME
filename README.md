@@ -42,6 +42,6 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 
 ### Dataset
 
-Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dropbox.com/sh/c0kpb1a706wgw6x/AADTuKDUyg4mXf9lELdA9fnBa?dl=0), the password is **vbog9viNgal**.
+Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dropbox.com/sh/c0kpb1a706wgw6x/AADTuKDUyg4mXf9lELdA9fnBa?dl=0)(password is **vbog9viNgal**) 
 
 
