@@ -28,12 +28,14 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
 <p align="center"> 
-<b>Fig. 2</b> The channel configuration of the 6 EMG recording electrodes). The left panel corresponding location of each electrode; The right panel indicates the indexing.  
+<b>Fig. 2</b> The channel configuration of the 6 EMG recording electrodes, which shows the indexing corresponding location of each electrode. 
 </p>
 
 ### EMG signals
 * An _OpenBCI_ was used to recorded EMG signals.
 * The sampling rate was set at 250 Hz.
 * 6 electrodes were placed on rectus femoris (*RF*), tibialis anticus (*TA*), and  gastrocnemius lateralis (*GL*) of two lower limbs
+* There was only recording EMGs on ME session
+* The raw EMG of each sit-to-stand/stand-to-sit transition was formed in a dimension of participants￼*runs*￼trials*￼channels*￼time points (8￼*3*￼5*￼6*￼3500).
 
 
