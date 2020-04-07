@@ -11,21 +11,25 @@
 
 ## Experimental protocol
 
-To investigate the feasibility of decoding the MI and MRCP signals during the intended movement executions with continuous EEG recordings, the entire experimental procedure composed of two sessions: MI and ME. Each session consisted of 3 runs (5 trials each), incorporating a total of 30 trials. The protocol began with a sitting posture, followed by 5 repeated trials of sit-to-stand and stand-to-sit tasks alternatively. The top figure displays the sequence of four states in each trial: R, AO, idle, and task performing states (MI or ME). During the R state, a black screen was displayed on the monitor for 5 seconds (s). The participants were instructed to remain relaxed and motionless. To avoid the ambiguity of the instructions, a video stimulus showing the sit-to-stand or stand-to-sit video task lasted for 4 to 5 s was presented to guide the participants in the AO state. The participants were instructed to perform the given task following an audio cue (beep) within 4 s. In the ME, the participants were to complete a succession of self-paced voluntary movement executions. Whereas in the MI, the participants were to commence motion imagining immediately after the audio cue.
+To investigate the feasibility of decoding the MI and MRCP signals during the intended movement executions with continuous EEG recordings, the entire experimental procedure composed of two sessions: MI and ME. Each session consisted of 3 runs (5 trials each), incorporating a total of 30 trials. The protocol began with a sitting posture, followed by 5 repeated trials of sit-to-stand and stand-to-sit tasks alternatively. Figure 1 displays the sequence of four states in each trial: R, AO, idle, and task performing states (MI or ME). During the R state, a black screen was displayed on the monitor for 5 seconds (s). The participants were instructed to remain relaxed and motionless. To avoid the ambiguity of the instructions, a video stimulus showing the sit-to-stand or stand-to-sit video task lasted for 4 to 5 s was presented to guide the participants in the AO state. The participants were instructed to perform the given task following an audio cue (beep) within 4 s. In the ME, the participants were to complete a succession of self-paced voluntary movement executions. Whereas in the MI, the participants were to commence motion imagining immediately after the audio cue.
 
 ![EEG and EOG setup](fig/EEG-electrodes.001.png)
 <p align="center"> 
-<b>Fig. 2</b> The channel configuration of the International 10-20 system (11 EEG and 2 EOG recording electrodes). The left panel indicates the indexing; the right panel corresponding location of each electrode.. 
+<b>Fig. 2</b> The channel configuration of the International 10-20 system (11 EEG and 2 EOG recording electrodes). The left panel corresponding location of each electrode; The right panel indicates the indexing. 
 </p>
+
 ### EEG and EOG signals
 
-* A _g.USBamp RESEARCH_ was used to recored EEG and EOG signals.
+* A _g.USBamp RESEARCH_ was used to recored EEG and EOG signals as displyed in Figure 2.
 * The sampling rate was set at 1200 Hz.
 * **EEG**: 11 electrodes were placed on *FCz*, *C3*, *Cz*, *C4*, *CP3*, *CPz*, *CP4*, *P3*, *Pz*, *P4*, and *POz*
 * **EOG**: 2 electrodes were placed on under (*VEOG*) and next (*HEOG*) to the outer canthus of the right eye
 * The impedance of both EEG and EOG signals was maintained at below 10 *k*Ω throughout the experiment
 
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
+<p align="center"> 
+<b>Fig. 2</b> The channel configuration of the 6 EMG recording electrodes). The left panel corresponding location of each electrode; The right panel indicates the indexing.  
+</p>
 
 ### EMG signals
 * An _OpenBCI_ was used to recorded EMG signals.
