@@ -4,11 +4,12 @@
 ## Data Description
 ![protocol](fig/timeline.png)
 ## Experimental protocol
+
+To investigate the feasibility of decoding the MI and MRCP signals during the intended movement executions with continuous EEG recordings, the entire experimental procedure composed of two sessions: MI and ME. Each session consisted of 3 runs (5 trials each), incorporating a total of 30 trials. The protocol began with a sitting posture, followed by 5 repeated trials of sit-to-stand and stand-to-sit tasks alternatively. The top figure displays the sequence of four states in each trial: R, AO, idle, and task performing states (MI or ME). During the R state, a black screen was displayed on the monitor for 5 seconds (s). The participants were instructed to remain relaxed and motionless. To avoid the ambiguity of the instructions, a video stimulus showing the sit-to-stand or stand-to-sit video task lasted for 4 to 5 s was presented to guide the participants in the AO state. The participants were instructed to perform the given task following an audio cue (beep) within 4 s. In the ME, the participants were to complete a succession of self-paced voluntary movement executions. Whereas in the MI, the participants were to commence motion imagining immediately after the audio cue.
+
 ![EEG and EOG setup](fig/EEG-electrodes.001.png)
-
-To investigate the feasibility of decoding the MI and MRCP signals during the intended movement executions with continuous EEG recordings, the entire experimental procedure composed of two sessions: MI and ME. Each session consisted of 3 runs (5 trials each), incorporating a total of 30 trials. The protocol began with a sitting posture, followed by 5 repeated trials of sit-to-stand and stand-to-sit tasks alternatively. \autoref{timeline} displays the sequence of four states in each trial: R, AO, idle, and task performing states (MI or ME). During the R state, a black screen was displayed on the monitor for 5 seconds (s). The participants were instructed to remain relaxed and motionless. To avoid the ambiguity of the instructions, a video stimulus showing the sit-to-stand or stand-to-sit video task lasted for 4 to 5 s was presented to guide the participants in the AO state. The participants were instructed to perform the given task following an audio cue (beep) within 4 s. In the ME, the participants were to complete a succession of self-paced voluntary movement executions. Whereas in the MI, the participants were to commence motion imagining immediately after the audio cue.
-
 ### EEG and EOG signals
+
 * A _g.USBamp RESEARCH_ was used to recored EEG and EOG signals.
 * The sampling rate was set at 1200 Hz.
 * **EEG**: 11 electrodes were placed on *FCz*, *C3*, *Cz*, *C4*, *CP3*, *CPz*, *CP4*, *P3*, *Pz*, *P4*, and *POz*
