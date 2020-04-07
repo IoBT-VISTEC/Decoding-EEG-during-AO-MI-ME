@@ -12,7 +12,7 @@
 * **EOG**: 2 electrodes were placed on under (*VEOG*) and next (*HEOG*) to the outer canthus of the right eye
 * The impedance of both EEG and EOG signals was maintained at below 10 *k*Ω throughout the experiment
 
-![EMG setup](fig/EMG\ data\ description\ new.001.jpeg)
+![EMG setup](fig/EMG_data_description_new.001.jpeg)
 
 ### EMG signals
 * test
