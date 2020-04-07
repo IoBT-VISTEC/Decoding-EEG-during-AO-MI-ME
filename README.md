@@ -25,6 +25,8 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * **EEG**: 11 electrodes were placed on *FCz*, *C3*, *Cz*, *C4*, *CP3*, *CPz*, *CP4*, *P3*, *Pz*, *P4*, and *POz*
 * **EOG**: 2 electrodes were placed on under (*VEOG*) and next (*HEOG*) to the outer canthus of the right eye
 * The impedance of both EEG and EOG signals was maintained at below 10 *k*Ω throughout the experiment
+* EEG and EOG signals were provided on both MI and ME sessions
+* The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants￼×runs×￼trials×￼channels×￼time points (8￼×3×￼5×￼6×￼3500).
 
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
 <p align="center"> 
