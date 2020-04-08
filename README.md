@@ -5,8 +5,8 @@
  
 ## Data Description
 
-<p align="center"> 
 ![protocol](fig/timeline.png){ width=50% }
+<p align="center"> 
 <b>Fig. 1</b> Timeline of each experimental trial. The four states displayed include resting (0–4 s), AO (4–8 s), idle (8–9 s), and task performing, either MI or ME (9–13 s). 
 </p>
 
@@ -14,8 +14,8 @@
 
 To investigate the feasibility of decoding the MI and MRCP signals during the intended movement executions with continuous EEG recordings, the entire experimental procedure composed of two sessions: MI and ME. Each session consisted of 3 runs (5 trials each), incorporating a total of 30 trials. The protocol began with a sitting posture, followed by 5 repeated trials of sit-to-stand and stand-to-sit tasks alternatively. Figure 1 displays the sequence of four states in each trial: R, AO, idle, and task performing states (MI or ME). During the R state, a black screen was displayed on the monitor for 5 seconds (s). The participants were instructed to remain relaxed and motionless. To avoid the ambiguity of the instructions, a video stimulus showing the sit-to-stand or stand-to-sit video task lasted for 4 to 5 s was presented to guide the participants in the AO state. The participants were instructed to perform the given task following an audio cue (beep) within 4 s. In the ME, the participants were to complete a succession of self-paced voluntary movement executions. Whereas in the MI, the participants were to commence motion imagining immediately after the audio cue.
 
-<p align="center"> 
 ![EEG and EOG setup](fig/EEG-electrodes.001.png)
+ <p align="center"> 
 <b>Fig. 2</b> The channel configuration of the International 10-20 system (11 EEG and 2 EOG recording electrodes). The left panel corresponding location of each electrode; The right panel indicates the indexing. 
 </p>
 
@@ -29,8 +29,9 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * EEG and EOG signals were provided on both MI and ME sessions
 * The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants×runs×trials×channels×time points (8×3×5×6×16800).
 
-<p align="center"> 
+
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
+<p align="center"> 
 <b>Fig. 3</b> The channel configuration of the 6 EMG recording electrodes, which shows the indexing corresponding location of each electrode. 
 </p>
 
