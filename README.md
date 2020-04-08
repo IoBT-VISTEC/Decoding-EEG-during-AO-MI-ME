@@ -7,7 +7,7 @@
 
 ![protocol](fig/timeline.png)
 <p align="center"> 
-<b>Fig. 1</b> Timeline of each experimental trial. The four states displayed include resting (0--4 s), AO (4--8 s), idle (8--9 s), and task performing, either MI or ME (9--13 s). 
+<b>Fig. 1</b> Timeline of each experimental trial. The four states displayed include resting (0–4 s), AO (4–8 s), idle (8–9 s), and task performing, either MI or ME (9–13 s). 
 </p>
 
 ## Experimental protocol
@@ -27,7 +27,7 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * **EOG**: 2 electrodes were placed on under (*VEOG*) and next (*HEOG*) to the outer canthus of the right eye
 * The impedance of both EEG and EOG signals was maintained at below 10 *k*Ω throughout the experiment
 * EEG and EOG signals were provided on both MI and ME sessions
-* The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants￼×runs×￼trials×￼channels×￼time points (8￼×3×￼5×￼6×￼3500).
+* The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of *participants*￼x*runs*￼x*￼trials*￼x*￼channels×*￼x*time points* (*8￼*￼x*3×*￼x*5*￼x*￼6*￼x*￼16800*).
 
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
 <p align="center"> 
