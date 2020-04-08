@@ -30,7 +30,7 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants×runs×trials×channels×time points (8×3×5×6×16800).
 
 
-![EMG setup](fig/EMG_data_description_new.001.jpeg)
+![EMG setup](fig/EMG_data_description_new.001.jpeg =250x)
 <p align="center"> 
 <b>Fig. 3</b> The channel configuration of the 6 EMG recording electrodes, which shows the indexing corresponding location of each electrode. 
 </p>
