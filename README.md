@@ -27,7 +27,7 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * **EOG**: 2 electrodes were placed on under (*VEOG*) and next (*HEOG*) to the outer canthus of the right eye
 * The impedance of both EEG and EOG signals was maintained at below 10 *k*Ω throughout the experiment
 * EEG and EOG signals were provided on both MI and ME sessions
-* The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants runs ￼trials channels time points (8￼ 3 5 ￼6 16800).
+* The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants×runs×trials×channels￼×time×points (8￼×3×5×6×16800).
 
 ![EMG setup](fig/EMG_data_description_new.001.jpeg)
 <p align="center"> 
@@ -39,7 +39,7 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 * The sampling rate was set at 250 Hz.
 * 6 electrodes were placed on rectus femoris (*RF*), tibialis anticus (*TA*), and  gastrocnemius lateralis (*GL*) of two lower limbs
 * There was only recording EMGs on ME session
-* The raw EMG of each sit-to-stand/stand-to-sit transition was formed in a dimension of participants￼×runs×￼trials×￼channels×￼time points (8￼×3×￼5×￼6×￼3500).
+* The raw EMG of each sit-to-stand/stand-to-sit transition was formed in a dimension of participants×runs×trials×channels￼×time×points (8￼×3×5×6×3500).
 
 ### Dataset
 
