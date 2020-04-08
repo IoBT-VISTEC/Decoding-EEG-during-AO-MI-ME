@@ -5,7 +5,7 @@
  
 ## Data Description
 
-![protocol](fig/timeline.png){ width=50% }
+![protocol](fig/timeline.png)
 <p align="center"> 
 <b>Fig. 1</b> Timeline of each experimental trial. The four states displayed include resting (0–4 s), AO (4–8 s), idle (8–9 s), and task performing, either MI or ME (9–13 s). 
 </p>
