@@ -46,7 +46,7 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 
 Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dropbox.com/sh/c0kpb1a706wgw6x/AADTuKDUyg4mXf9lELdA9fnBa?dl=0)(password is **vbog9viNgal**) 
 
-**Note!** This manuscript is under review. The dataset and code are available when the manuscript was accepted.
+**Note!** This manuscript is under review. The dataset and code are available when the manuscript is accepted.
 
 ### Citation ##
 When using (any part) of this dataset, please cite [our paper](https://arxiv.org/abs/2004.04107)
