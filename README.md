@@ -48,7 +48,7 @@ Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dro
 
 
 ### Citation ##
-Following citation format can be used for BibTex:
+When using (any part) of this dataset, please cite [our paper!](https://arxiv.org/abs/2004.04107)
 
     @misc{2004.04107,
     Author = {Rattanaphon Chaisaen and Phairot Autthasan and Nopparada Mingchinda and Pitshaporn Leelaarporn and Narin Kunaseth and Suppakorn Tammajarung and Poramate Manoonpong and Theerawit Wilaiprasitporn},
