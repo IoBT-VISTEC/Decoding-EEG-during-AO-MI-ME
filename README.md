@@ -47,3 +47,12 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dropbox.com/sh/c0kpb1a706wgw6x/AADTuKDUyg4mXf9lELdA9fnBa?dl=0)(password is **vbog9viNgal**) 
 
 
+### Citation ##
+Following citation format can be used for BibTex:
+
+    @misc{2004.04107,
+    Author = {Rattanaphon Chaisaen and Phairot Autthasan and Nopparada Mingchinda and Pitshaporn Leelaarporn and Narin Kunaseth and Suppakorn Tammajarung and Poramate Manoonpong and Theerawit Wilaiprasitporn},
+    Title = {Decoding EEG Rhythms During Action Observation, Motor Imagery, and Execution for Standing and Sitting},
+    Year = {2020},
+    Eprint = {arXiv:2004.04107},
+    }
