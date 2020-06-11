@@ -44,7 +44,14 @@ To investigate the feasibility of decoding the MI and MRCP signals during the in
 
 ### Dataset
 
-Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dropbox.com/sh/c0kpb1a706wgw6x/AADTuKDUyg4mXf9lELdA9fnBa?dl=0)(password is **vbog9viNgal**) 
+Raw dataset is available on [Decoding-EEG-during-AO-MI-ME Pages](https://www.dropbox.com/sh/c0kpb1a706wgw6x/AADTuKDUyg4mXf9lELdA9fnBa?dl=0) (password is **vbog9viNgal**) \
+(Paste dataset into folder: "pysitstand/raw_data")
+### Dependencies
+* [MNE-Python](https://mne.tools/stable/index.html)
+* [EEGLAB version eeglab2019_0](https://sccn.ucsd.edu/eeglab/index.php)\
+(Paste EEGLAB into folder: "pysitstand/eeglab2019_0")
+* [Riemannian Artifact Subspace Reconstruction Matlab Toolbox](https://github.com/s4rify/rASRMatlab)\
+(Paste rASRMatlab and its dependencies into folder: "pysitstand/eeglab2019_0/plugins/rASRMatlab")
 
 **Note!** This manuscript is under review. The dataset and code are available when the manuscript is accepted.
 
