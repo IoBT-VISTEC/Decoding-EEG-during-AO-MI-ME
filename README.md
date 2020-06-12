@@ -1,14 +1,15 @@
 # Decoding EEG Rhythms During Action Observation, Motor Imagery and Execution for Standing and Sitting
 
-![overall](fig/overall.png)
-
+<p align="center"> 
+<img src="fig/overall.png" width="500"/> 
+</p>
 ## Abstract 
  Event-related desynchronization and synchronization (ERD/S) and movement-related cortical potential (MRCP) play an important role in brain-computer interfaces (BCI) for lower limb rehabilitation, particularly in standing and sitting. However, little is known about the differences in the cortical activation between standing and sitting, especially how the brain's intention modulates the pre-movement sensorimotor rhythm as they do for switching movements. In this study, we aim to investigate the decoding of continuous EEG rhythms during action observation (AO), motor imagery (MI), and motor execution (ME) for standing and sitting. We developed a behavioral task in which participants were instructed to perform both AO and MI/ME in regard to the actions of sit-to-stand and stand-to-sit. Our results demonstrated that the ERD was prominent during AO, whereas ERS was typical during MI at the alpha band across the sensorimotor area. A combination of the filter bank common spatial pattern (FBCSP) and support vector machine (SVM) for classification was used for both offline and classifier testing analyses. The offline analysis indicated the classification of AO and MI providing the highest mean accuracy at 82.73±2.54 % in stand-to-sit transition. By applying the classifier testing analysis, we demonstrated the higher performance of decoding neural intentions from the MI paradigm in comparison to the ME paradigm. These observations led us to the promising aspect of using our developed tasks based on the integration of both AO and MI to build future exoskeleton-based rehabilitation systems.
  
 ## Data Description
 
-![protocol](fig/timeline.png)
 <p align="center"> 
+<img src="fig/timeline.png" width="500"/> <br>
 <b>Fig. 1</b> Timeline of each experimental trial. The four states displayed include resting (0–4 s), AO (4–8 s), idle (8–9 s), and task performing, either MI or ME (9–13 s). 
 </p>
 
@@ -16,16 +17,16 @@
 
 To investigate the feasibility of decoding the MI signals (including ERD/S) and MRCPs during the intended movement executions with continuous EEG recordings, the entire experimental procedure composed of two sessions: MI and ME. Each session consisted of 3 runs (5 trials each), incorporating a total of 30 trials. The protocol began with a sitting posture, followed by 5 repeated trials of sit-to-stand and stand-to-sit tasks alternatively. Figure 1 displays the sequence of four states in each trial: R, AO, idle, and task performing states (MI or ME). During the R state, a black screen was displayed on the monitor for 6 seconds (s). The participants were instructed to remain relaxed and motionless. To avoid the ambiguity of the instructions, a video stimulus showing the sit-to-stand or stand-to-sit video task lasted for 4 to 5 s was presented to guide the participants in the AO state. The participants were instructed to perform the tasks of both sessions immediately after the audio cue. In the ME session, the participants were to complete a succession of self-paced voluntary movements after the audio cue. In the MI session, the participants were to commence the imagining of the assigned motion after the audio cue. During MI, the motor initiation onset can be generally obtained from an audio cue or visual cue, whereas during ME, the motor initiation onset from EMG signals.
 
-![sensor](fig/sensor_setup.png)
 <p align="center"> 
+<img src="fig/sensor_setup.png" width="500"/> <br>
 <b>Fig. 2</b> The sensing system set up for EEG, EMG, and EOG data acquisition. 
 </p>
 
 ### Data Acquisition
 The sensing system was set up to record the EEG, EOG, and EMG signals simultaneously throughout the experiment, as depicted in  Figure 2.
 
-![EEG and EOG setup](fig/EEG-electrodes.001.png)
  <p align="center"> 
+<img src="fig/EEG-electrodes.001.png" width="700"/> <br>
 <b>Fig. 3</b> The channel configuration of the International 10-20 system (11 EEG and 2 EOG recording electrodes). The left panel corresponding location of each electrode; The right panel indicates the indexing. 
 </p>
 
@@ -39,9 +40,8 @@ The sensing system was set up to record the EEG, EOG, and EMG signals simultaneo
 * EEG and EOG signals were provided on both MI and ME sessions
 * The raw EEG and EOG on each sit-to-stand/stand-to-sit transition of MI/ME session were formed in a dimension of participants×runs×trials×channels×time points (8×3×5×6×16800).
 
-
-![EMG setup](fig/EMG_data_description_new.001.jpeg)
 <p align="center"> 
+<img src="fig/EMG_data_description_new.001.jpeg" width="500"/> <br>
 <b>Fig. 4</b> The channel configuration of the 6 EMG recording electrodes, which shows the indexing corresponding location of each electrode. 
 </p>
 

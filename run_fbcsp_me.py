@@ -18,7 +18,7 @@ x sec window size with y% step (0.1 means overlap 90%)
 
 # How to run
 
->> python run_fbcsp_me.py <window_size> <step> <filter order> <performing task> <prediction motel>
+>> python run_fbcsp_me.py <window_size> <step> <filter order> <performing task> <prediction motel> <artifact remover>
 
 >> python run_fbcsp_me.py 1 0.5 4 stand AO_vs_MRCPs
 >> python run_fbcsp_me.py 1 0.5 4 sit AO_vs_MRCPs
