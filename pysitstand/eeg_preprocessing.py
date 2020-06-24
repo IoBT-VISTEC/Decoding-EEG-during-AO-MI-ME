@@ -17,20 +17,7 @@ try:
     import matlab.engine
 except:
     pass  
-# for saving image
-# import matplotlib
-# matplotlib.use('Agg')
-# import sys
-# try:
-#     from PyQt5.QtWidgets import QApplication
-#     from PyQt5 import QtCore
-#     os.environ["QT_AUTO_SCREEN_SCALE_FACTOR"] = "1"
-#     qapp = QApplication(sys.argv)
-#     qapp.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)
-# except:
-#     pass
 
-# Perform bandpass-filter on each trial.
 def peform_butter_bandpass_filter(data, lowcut, highcut, fs, order):
     if len(data.shape) == 3:
         data_finished = np.zeros((data.shape[0], data.shape[1], data.shape[2]))
