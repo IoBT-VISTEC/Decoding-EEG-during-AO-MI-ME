@@ -1,7 +1,7 @@
 # Decoding EEG Rhythms During Action Observation, Motor Imagery and Execution for Standing and Sitting
 
 <p align="center"> 
-<img src="fig/overall.png" width="800"/> 
+<img src="fig/overall.png" width="750"/> 
 </p>
 
 ## Abstract 
