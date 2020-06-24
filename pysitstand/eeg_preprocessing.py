@@ -134,6 +134,7 @@ def ica(data, sfreq, new_sfreq, save_name=None, threshold=2):
         raw_corrected.save('new_raw/'+save_name+'_raw.fif', overwrite=True)
     return reshape2Dto3D(raw_corrected.get_data(), trials=5)
 
+# preprocessing step, perform from filter_medthod order
 def preprocessing(data, filter_medthod, sfreq):
     for key, value in filter_medthod.items():
         if key == 'butter_bandpass_filter':
