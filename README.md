@@ -1,7 +1,7 @@
 # Decoding EEG Rhythms During Action Observation, Motor Imagery and Execution for Standing and Sitting
 
 <p align="center"> 
-<img src="fig/overall.png" width="800"/> 
+<img src="fig/overall.png" width="700"/> 
 </p>
 
 ## Abstract 
@@ -10,7 +10,7 @@
 ## Data Description
 
 <p align="center"> 
-<img src="fig/timeline.png" width="800"/> <br>
+<img src="fig/timeline.png" width="700"/> <br>
 <b>Fig. 1</b> Timeline of each experimental trial. The four states displayed include resting (0–4 s), AO (4–8 s), idle (8–9 s), and task performing, either MI or ME (9–13 s). 
 </p>
 
