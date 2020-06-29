@@ -56,7 +56,7 @@ The sensing system was set up to record the EEG, EOG, and EMG signals simultaneo
 ### Dataset
 
 Raw dataset available on [Decoding-EEG-during-AO-MI-ME Pages](https://vistec-my.sharepoint.com/:f:/g/personal/1830808_vistec_ac_th/EryhjI8X11lDnQgDRp_zmyUBG7KzPPD-tsm--5lIASdM9A?e=nMl59s) \
-(Paste dataset into folder: "pysitstand/raw_data") \
+(Paste dataset into folder: "pysitstand/raw_data") 
 
 ### Dependencies
 * [MNE-Python](https://mne.tools/stable/index.html)
