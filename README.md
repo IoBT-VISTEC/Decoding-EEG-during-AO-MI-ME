@@ -69,4 +69,11 @@ Raw dataset available on [Decoding-EEG-during-AO-MI-ME Pages](https://vistec-my.
 ### Citation ###
 When using (any part) of this dataset, please cite [our paper](https://arxiv.org/abs/2004.04107)
 
-    @ARTICLE{9130151,  author={R. {Chaisaen} and P. {Autthasan} and N. {Mingchinda} and P. {Leelaarporn} and N. {Kunaseth} and S. {Tammajarung} and P. {Manoonpong} and S. C. {Mukhopadhyay} and T. {Wilaiprasitporn}},  journal={IEEE Sensors Journal},   title={Decoding EEG Rhythms During Action Observation, Motor Imagery, and Execution for Standing and Sitting},   year={2020},  volume={},  number={},  pages={1-1},}
+    @ARTICLE{9130151,  
+    author={R. {Chaisaen} and P. {Autthasan} and N. {Mingchinda} and P. {Leelaarporn} and N. {Kunaseth} and S. {Tammajarung} and P. {Manoonpong} and S. C. {Mukhopadhyay} and T. {Wilaiprasitporn}},  
+    journal={IEEE Sensors Journal},   
+    title={Decoding EEG Rhythms During Action Observation, Motor Imagery, and Execution for Standing and Sitting},   
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={1-1},}
