@@ -7,8 +7,6 @@ class EEG:
     """ EEG extract and preprocessing 
     ****** If you want to edit, see ICA_plot and preprocessing function ********
     
-    Note: The result will come from subject 4-11, because subject 1-3 are different protocol
-    
     Parameters
     ----------
     csv_file_name : EEG .csv file name
