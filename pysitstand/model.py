@@ -9,6 +9,11 @@ from sklearn.feature_selection import SelectKBest, mutual_info_classif
 from pysitstand.utils import sen_spec, butter_bandpass_filter
 
 def fbcsp(X_train, y_train, X_test, y_test, filter_order=2, session='mi'):
+    
+    '''
+    X_train, X_test: EEG data, 3D numpy array (#windows, #channels #timepoint)
+    y_train, y_test: labels, 1D numpy array (#windows)
+    '''
 
     if session == 'mi':
         filters = [[4, 8], [8, 12], [12, 16], 
