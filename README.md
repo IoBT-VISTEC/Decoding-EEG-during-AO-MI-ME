@@ -59,12 +59,21 @@ Raw dataset available on [Decoding-EEG-during-AO-MI-ME Pages](https://vistec-my.
 (Paste dataset into folder: "pysitstand/raw_data") 
 
 ### Dependencies
-* [MNE-Python](https://mne.tools/stable/index.html)
+* Python 3.6.15
+* [MNE-Python v0.20.0](https://github.com/mne-tools/mne-python/tree/v0.20.0)
 * [EEGLAB version eeglab2019_0](https://sccn.ucsd.edu/eeglab/index.php)\
 (Paste EEGLAB into folder: "pysitstand/eeglab2019_0")
 * [Riemannian Artifact Subspace Reconstruction Matlab Toolbox](https://github.com/s4rify/rASRMatlab)\
 (Paste rASRMatlab and its dependencies into folder: "pysitstand/eeglab2019_0/plugins/rASRMatlab")
 
+```
+mne==0.20.0
+matplotlib==2.1.0
+numpy==1.13.3
+pandas==0.21.0
+scikit-learn==0.19.1
+scipy==1.0.0
+```
 
 ### Citation ###
 When using (any part) of this dataset, please cite [our paper](https://ieeexplore.ieee.org/abstract/document/9130151)
