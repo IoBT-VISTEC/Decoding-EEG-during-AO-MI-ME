@@ -67,6 +67,7 @@ Raw dataset available on [Decoding-EEG-during-AO-MI-ME Pages](https://vistec-my.
 (Paste rASRMatlab and its dependencies into folder: "pysitstand/eeglab2019_0/plugins/rASRMatlab")
 
 ```
+mne==0.20.0
 backcall==0.2.0
 cycler==0.11.0
 decorator==5.1.1
